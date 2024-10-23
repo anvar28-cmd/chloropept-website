@@ -20,7 +20,7 @@ function App() {
           <div className="team-member">
             <img src={placeholder1} alt="Mustafo Mustafokulov" className="team-photo" />
             <h4>
-              <a href="https://linkedin.com/example1" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/mustafo-mustafokulov-81b1b0207/" target="_blank" rel="noopener noreferrer">
                 Mustafo Mustafokulov
               </a>
             </h4>
@@ -29,7 +29,7 @@ function App() {
           <div className="team-member">
             <img src={placeholder2} alt="Lisa Sun" className="team-photo" />
             <h4>
-              <a href="https://linkedin.com/example2" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/lisa-sun-7a8433268/" target="_blank" rel="noopener noreferrer">
                 Lisa Sun
               </a>
             </h4>
@@ -38,7 +38,7 @@ function App() {
           <div className="team-member">
             <img src={placeholder3} alt="Pedram Bayat" className="team-photo" />
             <h4>
-              <a href="https://linkedin.com/example3" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/pedrambayat/" target="_blank" rel="noopener noreferrer">
                 Pedram Bayat
               </a>
             </h4>
